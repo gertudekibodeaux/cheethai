@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahngaesug.larshedlund.se/sitemap.xml
